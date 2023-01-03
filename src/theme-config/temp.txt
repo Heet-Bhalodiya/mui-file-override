@@ -1,0 +1,12 @@
+// const themeCollection = createTheme({
+//   palette: Palette,
+//   breakpoints: Breakpoints,
+
+//   //   typography,
+//   components: deepmerge(components, userTheme),
+//   // @ts-ignore
+//   typography: deepmerge(coreTypography, userTheme),
+//   // @ts-ignore
+//   shadows,
+//   spacing: 4,
+// });
